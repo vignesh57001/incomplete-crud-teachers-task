@@ -1,0 +1,19 @@
+{
+  "Teachers": [
+    {
+      "name": "Vignesh",
+      "gender": "Male",
+      "subject": "Tamil"
+    },
+    {
+      "name": "Viswa",
+      "gender": "Male",
+      "subject": "English"
+    },
+    {
+      "name": "Vikku",
+      "gender": "Male",
+      "subject": "Maths"
+    }
+  ]
+}
